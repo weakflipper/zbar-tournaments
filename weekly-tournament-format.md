@@ -130,7 +130,7 @@ This is under the discretion of the Tournament Director.
 # Extra Balls and Game Settings
 Zanzabar is a public venue and they have games that are in awesome condition. To keep setup time to a minimum, and to be less evasive to the standard game settings themselves, games will not be altered from a software setting perspective. As the IFPA rules state, a card will be placed on each game that states to "Plunge Extra Balls". If for some reaosn it makes sense to ALLOW extra balls, a card will say as such. 
 
-#Gracious Professionalism
+# Gracious Professionalism
 We are all human, or we want to be. We can be competitive, but we can also help out our competition too. LOOK for additional rules that may be posted on each game BEFORE playing, and ensure that each person in your group knows the rules. This will help with keeping disqualifications to a minimum.
 
 # Official / Legal crap
