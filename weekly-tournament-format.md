@@ -59,12 +59,8 @@ The number of players in the finals will be determined based on the number of pl
 |# in Tourney | no in Finals|
 | ------------ | ----------- |
 |<25 | 8
-|25-32 | 12 (Top 4 receive a bye)|
-|33-48 | 16|
-|49-56|24 (Top 8 receive a bye)|
-|57-64|28 (Top 4 receive a bye)|
-|65-128|32|
-|129-256|64|
+|25-31 | 12 (Top 4 receive a bye)|
+|>=32 | 16|
 
 Finalists will be paired into four player groups.
 Each round will consist of 3 games.
@@ -80,21 +76,16 @@ Top two players in each group advances to the next round.
 ## Payouts
 100% of all money collected is paid out to the top players. Payouts are approximate, as no coin is wanted too be used for paying out.\
 
-Zanzabar will add an additional $100 to the prize pool for every 16 people that are in the tournament. The money will first pay for the admission to all players that made it to the finals. The remaining will then be disbursed amongst the payout percentages.
-
 The following is the payout percentages based on the number of players submitted. This will be followed as close as possible without getting change (so may be rounded up to the nearest $5):
 
-| Place | <23 | 24-31 | 32-47 | 48 - 64 |
-| :----- | --- | ----- | ----- | ------- |
-| 1st | 40% | 30% | 30% | 25% |
-| 2nd | 30% | 25% | 25% | 20% |
-| 3rd | 20% | 20% | 15% | 15% |
-| 4th | 10% | 15% | 10% | 10% |
-| 5th-6th | | 5% | 5% | 5% |
-| 7th-8th | | | 5% | 5% |
-| 9th-12th | | | | 2.5% |
+| Place | Percentage of Payout |
+| :----- |  ------- |
+| 1st | 40% |
+| 2nd | 30% |
+| 3rd | 20% |
+| 4th | 10% |
 
-**If there is money donated to the prize pool, all finalists will have their tournament entry ($5 refunded)**
+Any additional money donated will be added to the prize pool and used in the payout distribution as well.
 
 ## IFPA submission
 The IFPA fee is paid by Zanzabar. As far as IFPA points go, the worth of the tournament is based on the player ranks, but we try hard to get a high Tournament Grading Percentage (TGP).
@@ -110,10 +101,6 @@ Finals: Using the PAPA Matchplay Finals format, the dumbed down TGP for finals i
 | 8 | 12 | 48% |
 | 12 | 18 | 72% |
 | 16 | 18 | 72% |
-| 24 | 24 | 96% |
-| 28 | 24 | 96% |
-| 32 | 24 | 96% |
-| 64 | 30 | 100% |
 
 **Since the finals limits the field by 50% or more, the qualifying round can be added:**\
 Qualifying TGP% = (number of rounds played (aka games played) X 2) X .04
